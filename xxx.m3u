@@ -9,26 +9,6 @@ https://www.ast.tv/stream/2/ultra.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/N8Z939N.png" tvg-country="INT" tvg-url="" group-title="XXX",HOT
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 1
-http://fxzb.bbwqg.cn/proxy/box.php?id=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 10
-http://fxzb.bbwqg.cn/proxy/box.php?id=10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 2
-http://fxzb.bbwqg.cn/proxy/box.php?id=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 3
-http://fxzb.bbwqg.cn/proxy/box.php?id=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 4
-http://fxzb.bbwqg.cn/proxy/box.php?id=4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 5
-http://fxzb.bbwqg.cn/proxy/box.php?id=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 6
-http://fxzb.bbwqg.cn/proxy/box.php?id=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 7
-http://fxzb.bbwqg.cn/proxy/box.php?id=7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 8
-http://fxzb.bbwqg.cn/proxy/box.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Le2jClo.png" tvg-country="TW" tvg-url="" group-title="XXX",IBiza 9
-http://fxzb.bbwqg.cn/proxy/box.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
