@@ -11,14 +11,6 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunk
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
 http://122.38.74.172:9981/stream/channelid/1463854277
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV
