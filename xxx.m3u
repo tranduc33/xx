@@ -5,8 +5,6 @@ https://www.ast.tv/stream/1/ultra.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/AHHE8Rt.png" tvg-country="DE" tvg-url="" group-title="XXX",Babestation24
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/N8Z939N.png" tvg-country="INT" tvg-url="" group-title="XXX",HOT
-http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/3vf53u4.png" tvg-country="KR" tvg-url="" group-title="XXX",Korean Adult TV
